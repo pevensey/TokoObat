@@ -1,2 +1,2 @@
 # TokoObat
-create simple store using cpp, this is my own coursework 
+create simple store using C++, this is my own coursework 
