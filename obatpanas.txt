@@ -1,0 +1,22 @@
+Nama Obat		Netto		Stok		harga
+
+Sanmol Drop		0.6 mL		4 botol		Rp. 19.683,-
+Tempra F		60  mL		5 botol		Rp. 48.628,-
+Tempra Drops		15  mL		5 botol		Rp. 52.714,-
+Tempra SYR		60  mL		3 botol		Rp. 42.686,-
+Sanmol			120 mg		8 tube		Rp. 20.828,-
+Termagon		15  mL		7 botol		Rp.  9.700,-
+Dumin			60  mL		8 botol		Rp. 23.790,-
+Kool Fever				9 pcs		Rp.  7.137,-
+Paracetamol SYR		5   mL		8 botol		Rp.  4.334,-
+Jesscool Sach		20  g		7 pcs		Rp.  1.949,-
+Alangsari		60  mg		4 dos		Rp.  7.309,-
+Biogesic		60  mL		6 botol		Rp. 28.940,-
+Komix Lo Han Kuo	60  mg		6 dos		Rp. 10.008,-
+Larutan Kaki Tiga	320 mL		9 botol		Rp.  5.770,-
+Rohto Fever				8 pcs		Rp. 10.400,-
+Frego			5   mg		9 tablet	Rp.  7.737,-
+Febrinex		60  mL		6 botol		Rp. 19.311,-
+Nipe Drop		15  mL		7 botol		Rp. 82.317,-
+Biogesic		500 mg		8 blister	Rp.  2.072,-
+Naprex Sirup		60  mL		8 botol		Rp. 42.262,-

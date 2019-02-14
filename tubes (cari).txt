@@ -1,0 +1,33 @@
+		cari:
+			
+	in.open("obatdemam.txt");				//memasukan data dari file eks ke array utk memudahkan searching
+	while(!in.eof()){
+		for(i=0;i<4;i++){
+			for(j=0;j<39;j++){
+			getline(in,list[i][j]);
+			cout<<list[i][j];
+			}
+		}
+	}
+	
+	cout<<"input nama obat: ";
+	getline(cin,c);
+	for(i=0;i<4;i++){
+		for(j=0;j<39;j++){				//range array
+	
+		while((i<3)&&list[i][j]!=c){
+			while(j<38){
+				j++;
+			}		//checking //i-1 dari range
+			i++;
+		}
+			if(c!=list[i][j]){					//nyocokin
+				cout<<"ga ada"<<endl<<i<<j;break;
+				} else{
+					ketemu = list[i][j];
+				cout<<"Ada brok: "<<endl;break;
+			}
+		}
+	}
+	cout<<ketemu;
+	in.close();

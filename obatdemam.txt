@@ -1,0 +1,39 @@
+Nama Obat		Netto		Stok		Harga
+
+Praxion Syrup		5 ml		3 botol		Rp. 26.562,-
+
+Praxion Drop		15 ml		2 botol		Rp. 24.518,-
+
+Coldmix D Syrup		60 ml		5 botol		Rp. 22.372,-
+
+Termagon Drop 		15 ml		4 botol		Rp. 9.700,-
+
+OBH Combi+apel		60 ml		1 botol 	Rp. 12.098,-
+
+Lacoldin Syrup		60 ml		5 botol 	Rp. 22.777,-
+
+Novalgin Syrup		60 ml		2 botol 	Rp. 57.499,-
+
+Fludane Syrup		60 ml		2 botol		Rp. 21.437,-
+
+Decolgen Syrup		60 ml		4 botol 	Rp. 11.641,-
+
+Alpara Syrup		60 ml		3 botol		Rp. 15.006,-
+
+Hufagrip Tmp Syrup	60 ml		2 botol		Rp. 14.100,-
+
+Dumin Recta Tub 	250 mg		6 pcs		Rp. 23.994,-
+
+Ottopan Syrup		60 ml		3 botol		Rp. 16.050,-
+
+Paracetamol Phyto	500 mg		4 tablet	Rp. 162,-
+
+OBH Combi Plus		100 ml		2 botol		Rp. 15.934,-
+
+Paracetine Syrup	60 ml		3 botol		Rp. 8.588,-
+
+Anadex Syrup		60 ml		4 botol		Rp. 31.351,-
+
+Bodrexin 		80 mg		4 strip		Rp. 2.077,-
+
+Mefinter		500 mg		5 tablet	Rp. 2.442,-

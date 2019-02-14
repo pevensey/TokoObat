@@ -1,0 +1,43 @@
+Nama Obat			Netto		Stok		harga
+
+OBH Combi+ Batuk Flu		100 ml		5  botol	Rp. 15.935,-
+
+OBH Combi+ Batuk Flu Madu	60  ml		5  botol	Rp. 12.415,-
+
+Triaminic Batuk SYR		60  ml		7  botol	Rp. 54.030,-
+
+Obat Batuk Ibu dan Anak		150 ml		5  botol	Rp. 39.742,-
+
+Obat Batuk Ibu dan Anak		75  ml		7  botol	Rp. 21.969,-
+
+Obat Batuk Ibu dan Anak		300 ml		3  botol	Rp. 67.878,-
+
+Lasal EXP SYR			100 ml		3  botol	Rp. 49.305,-
+
+Actifed EXP SYR hijau		60  ml		4  botol	Rp. 49.165,-
+
+Actifed+ EXP SYR hijau		120 ml		5  botol	Rp. 21.377,-
+
+Actifed Cough SYR merah		120 ml		5  botol	Rp. 61.989,-
+
+Actifed Cough SYR merah		60  ml		6  botol	Rp. 49.310,-
+
+Bisolvon			8   mg		10 strip	Rp. 20.130,-
+
+Bisolvon Elix			60  ml		6  botol	Rp. 36.505,-
+
+Intunal F TAB			8   mg		14 strip	Rp.  3.823,-
+
+Sanaflu Plus Batuk Sirup	60  ml		8  botol	Rp. 10.675,-
+
+Procold Flu dan Batuk		10  mg		20 strip	Rp.  3.088,-
+
+OBH Combi+ Batuk Flu Madu	60  ml		5  botol	Rp. 12.415,-
+
+Bodrex Flu & Batuk kering STR	15  g		12 strip	Rp.  1.716,-
+
+Bodrex Flu & Batuk kering SYR	60  ml		4  botol	Rp.  9.582,-
+
+Bodrex Flu & Batuk berdahak	20  mg		16 strip	Rp.  1.745,-
+
+

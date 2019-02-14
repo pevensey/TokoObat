@@ -1,0 +1,22 @@
+Nama Obat		Netto		Stok		harga
+
+Degirol Loz		20 g		8 strip		Rp.  3.872,-
+FG Troches		20 g		6 tablet	Rp.  1.424,-
+Sp Throches		60 mg		8 strip		Rp.  9.875,-
+Tantum Loz		15 g		5 strip		Rp. 20.750,-
+Strepsils		10 g		7 pcs		Rp.  6.816,-
+Lamandel Sachet		15 g		6 dos		Rp. 24.766,-
+Lamandel BTL		200g		3 botol		Rp. 37.453,-
+Fishermen's Sugar Free	20 mg		5 pcs		Rp. 12.711,-
+Woods Loz Orig		15 mL		6 pcs		Rp.  3.193,-
+Alba Pastiles		100g		8 pcs		Rp. 11.344,-
+Cooling			15 mL		5 botol		Rp. 30.532,-
+Hau Fung San		15 mL		8 botol		Rp.  6.587,-
+OB herbal junior	60 mL		5 botol		Rp. 12.606,-
+Jesscool		20 g		7 pcs		Rp.  1.949,-
+Pagoda			20 g		8 pcs		Rp.  5.449,-
+Hexos Barley Mint	12 g		7 pcs		Rp.  1.527,-
+Woods Sugar Free	12 g		7 pcs		Rp.  5.181,-
+Herbakof		60 mL		5 botol		Rp. 14.369,-
+Efisol Loz		15 g		6 strip		Rp. 12.837,-
+Konidin Loz		20 g		8 pcs		Rp.  2.680,-

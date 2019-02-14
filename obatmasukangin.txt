@@ -1,0 +1,34 @@
+Nama Obat		Netto		Stok		Harga
+
+Decolgen Masuk Angin 	15 mL		3 dos		Rp. 17. 127,-
+
+Laserin Syr		60 mL		4 botol 	Rp. 8.978,-
+
+Toplexil		120 mL		3 botol		Rp. 95.628,-
+
+Minyak Angin Lang	12 mL		2 botol		Rp. 19.582,-
+
+OB Herbal		100 mL		4 botol		Rp. 17.296,-
+
+Tolak Angin + Madu	15 mL		3 dos		Rp. 33.281,-
+
+Purekids Aise Belly 	60 mL		5 botol		Rp. 36.945,-
+
+Antangin Ginger Mint	15 mL		3 dos		Rp. 29.569,-
+
+Rheumason Hijau		18 gr		4 pcs		Rp. 7.917,-
+
+Obana Syr		60 mL		5 botol		Rp. 12.058,-
+
+Amlodipine Dexa 	10 mg		6 tablet 	Rp. 2.163,-
+
+Minyak angin beruang 	8 mL		3 botol		Rp. 15.702,-
+
+Isoptin 		80 mg		5 tablet	Rp. 16.595,-
+
+Norvask			5 mg		7 tablet 	Rp. 9.999,-
+
+Spiradan 		500 mg		3 tablet	Rp. 7.118,-
+
+Dilantin 		100 mg		4 tablet 	Rp. 6.238,-
+

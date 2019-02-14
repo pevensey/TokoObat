@@ -1,0 +1,7 @@
+Nama Obat	Netto	Stok
+
+Obat 1  	500ml	2 kaplet
+Obat 2	 	500mg	2 kaplet
+Obat 3		500mg	3 kaplet
+Obat 4		500mg	1 kaplet
+Obat 5		350mg	2 kaplet 

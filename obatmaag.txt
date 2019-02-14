@@ -1,0 +1,39 @@
+Nama Obat		Netto		Stok		Harga
+
+Sismax Syrup		60 ml		3 botol		Rp. 18.757,-
+
+Waisan 			1 gr		5 pack		Rp. 5.909,-
+
+Zantac			150 mg		5 tablet	Rp. 4.08,-
+
+Gastrucid		100 mg		4 Strip		Rp. 5.359,-
+
+Rantin 			300 mg		2 tablet 	Rp. 8.281,-
+
+Farmacrol F Syrup	100 ml		2 botol 	Rp. 49.573,-
+
+Mylanta Liq		150 ml		5 botol		Rp. 37.600,-
+
+Plantacid Syrup		100 ml		3 botol		Rp. 12.728,-
+
+Promag Cair		7 ml		2 dos		Rp. 10.852,-
+
+Polycrol Gel 		100 ml		3 botol 	Rp. 33.495,-
+
+Protop			20 mg		3 tablet	Rp. 17.934,-
+
+Ranivel Syrup 		60 ml 		3 Botol		Rp. 73.856,-
+
+Cimetidine KF		200 mg		7 tablet	Rp. 297,-
+
+Antasida Doen Syrup	60 ml		4 botol		Rp. 5.155,-
+
+Magasida Syrup		60 ml		2 botol		Rp. 31.283,-
+
+Ulsafate		500 mg		4 tablet	Rp. 2.665,-
+
+Digest 			30 mg		3 tablet	Rp. 16.267,-
+
+Pantoprazole M B F 	20 mg		1 tablet	Rp. 11.612,-
+
+Polyrof Gel		180 ml		3 botol		Rp. 46.312,-

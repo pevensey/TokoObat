@@ -1,0 +1,378 @@
+//TUGAS BESAR
+//TOKO OBAT
+
+
+#include<string.h>
+#include<fstream>
+#include<windows.h>
+#include<iostream>
+#include<iomanip>
+using namespace std;
+
+string diagnosa(int g1,int g2,int g3){
+	
+	string a,b,c;
+	
+	//Operasi AND (&&) 3 variabel diutamakan terlebih dahulu,
+	// AND (&&) 2 variabel selanjutnya, terakhir adalah operasi OR (||)
+	
+	//nb = nafas bau
+	//gg gigi goyang
+	//gmb = gusi merah dan bengkak
+	//lpb = luka pada bibir
+	//sg = sakit tenggorokan
+	//g = gatal
+	//pu = pusing
+	//bm = bintik merah
+	// bptn = badan panas tak nyaman
+	// km = kulit memerah
+	//p = pusmul
+	//m = muntah
+	//n = nyeri
+	//rp = rasa putar
+	//l = lemes
+	//bp = badan panas
+	//me = melilit
+	//pdl = pucat dan lemes
+	//pc = pucat
+	//ll = lesu lelah
+	//bpd = badan panas dingin
+	//hb = hidung berair
+	
+	/* memakai istilah p,m dan n yang artinya pusmul muntah dan nyeri, 
+	utk kedepannya memakai istilah p,m dan n utk mempercepat proses coding 
+	dan debugging*/
+	
+
+	switch(g1){
+		case 1 : a = "p";goto pusmul;break;
+		case 2 : a = "g";goto gatal;break;
+		case 3 : a = "nb";goto nafsu;break;
+		case 4 : a = "pc";goto pucat;break;
+
+		default : break;
+	}
+	
+	pusmul :
+		
+		switch(g2){
+			case 1 : b = "m";goto gejala3;break;
+			case 2 : b = "l";goto gejala3;break;
+			case 3 : b = "me";goto gejala3;break;
+		
+			default : break;
+		}
+	gatal : 
+		switch(g2){
+			case 1 : b = "pu";goto gejala3;break;
+			case 2 : b = "bptn";goto gejala3;break;
+		
+			default : break;
+		}
+	nafsu : 
+		switch(g2){
+			case 1 : b = "gg";goto gejala3;break;
+			case 2 : b = "lpb";goto gejala3;break;
+			
+			default : break;
+		}
+	pucat :
+		switch(g2){
+			case 1 : b = "ll";goto gejala3;break;
+			case 2 : b = "bpd";goto gejala3;break;
+			default : break;
+		}
+	gejala3 :
+		switch(g3){
+			case 1 : c = "n";break;
+			case 2 : c = "rp";break;
+			case 3 : c = "bp";break;
+			case 4 : c = "pdl";break;
+			case 5 : c = "bm";break;
+			case 6 : c = "km";break;
+			case 7 : c = "gmb";break;
+			case 8 : c = "sg";break;
+			case 9 : c = "pu";break;
+			case 10 : c = "p";break;
+			case 11 : c = "hb";break;
+		}
+		
+	if(a == "p" && b == "m" && c == "n"){
+		return "migrain";
+	}else if(a == "p" && b == "m" && c == "rp"){
+		return "vertigo"; //maka obat yang paling akurat yaitu yg ada di flowchart obat (hasil)
+	}else if(a == "p" && b == "m" && c == "bp"){
+		return "masukangin";
+	}else if(a == "p" && b == "m" && c == "pdl"){
+		return "masukangin";
+	}else if(a=="p" && b == "l" &&c == "bp"){
+		return "demam";
+	}else if ( a == "p" && b == "me" && c == "rp"){
+		return "masukangin";
+	}else if(a=="p" && b == "me" && c == "pdl"){
+		return "maag";
+	}else if(a=="g" && b=="pu" && c=="bm"){
+		return "cacar";
+	}else if(a=="g" && b=="bptn" && c=="km"){
+		return "herpes";
+	}else if(a=="nb" && b=="gg" && c== "gmb"){
+		return "sakitgigi";
+	}else if (a=="nb" && b == "lpb" && c=="sg"){
+		return "sariawan";
+	}else if(a=="pc" && b=="ll" && c=="pu"){
+		return "anemia";
+	}else if(a=="pc" && b=="bpd" && c=="p"){
+		return "tifus";
+	}else if(a=="pc" && b=="bpd" && c=="hb"){
+		return "flu";
+	}
+	
+	else if(a== "p"&&b=="m"){
+		return "Migrain/Vertigo"; // yaitu obat yang mendekati atau #2	
+	}else if(a=="pc" && b=="bpd"){
+		return "typus/flu";
+	}
+	
+	else if(a=="p" || b=="l" || b=="me" || c=="bp" || c=="pdl"){
+		if(b=="l"){
+			return "lemes";
+		}else if(b=="me"){
+			return "melilit";
+		}else if (c=="bp"){
+			return "badanpanas";
+		}else if(c=="pdl"){
+			return "pucat+lemes";
+		}else{
+			
+		}
+	}else if (a=="p"||b=="m"||c=="n" || c=="rp"){
+		if(c== "n"){
+			return "nyeri";
+		}else if(c == "rp"){
+			return "rasa_berputar";
+		}else if (a== "p"){
+			return "pusing+mual";
+		}else if (b == "m"){
+			return "muntah";
+		}else{
+		}
+	}else if(a=="g" || b=="pu" || b=="bptn" || c=="bm"||c=="km"){
+		if(a=="g"){
+			return "gatel";
+		}else if(b=="pu"){
+			return"pusing";
+		}else if(b=="bptn"){
+			return"badan_panas";
+		}else if(c=="bm"){
+			return "cacar";
+		}else if(c=="km"){
+			return "cacar";
+		}
+	}else if(a=="nb" || b=="gg" || b=="lpb" || c=="gmb" || c=="sg"){
+		if(a=="nb"){
+			return "nafasbau";
+		}else if(b=="gg"){
+			return "gigigoyang";
+		}else if(b=="lpb"){
+			return "lukapadabibir";
+		}else if(c=="gmb"){
+			return  "gusi_merah_bengkak";
+		}else if(c=="sg"){
+			return "sakit_tenggorokan";
+		}else{
+		}
+	}else if(a=="pc" || b=="bpd" || c=="p" || c=="hb"){
+		if(a=="pc"){
+			return "pucat";
+		}else if(b=="bpd"){
+			return"badan_panas_dingin";
+		}else if(c=="p"){
+			return"pusing+mual";
+		}else if(c=="hb"){
+			return"hidung_berair";
+		}else{
+		}
+	}else if(a=="pc" || b=="ll" || c=="pu"){
+		if(a=="pc"){
+			return"pucat";
+		}else if(b=="ll"){
+			return"lesu_lelah";
+		}else if(c=="pu"){
+			return"pusing";
+		}else{
+		}
+	}
+	
+	else{
+		return " Maaf penyakit tidak ditemukan ";
+	}
+	
+}
+void garis(){
+	cout<<"--------------------------------"<<endl;
+}
+
+int main(){
+	string merk;
+	int jumlah;
+	string m,n;
+	string b = "obatdemam.txt";
+	int pilihan,g1,g2,g3;
+	ifstream in;
+	int menu;
+	string obat;
+	int j,i;
+	string c,ketemu;
+	string list[4][39]; // list	
+	system ("color 1f");
+	
+	awal :
+	system("cls");
+	cout<<" Selamat Datang di Toko Obat A3 "<<endl;
+	garis();
+	cout<<"	Pilih Menu "<<endl;
+	cout<<"\n";
+	cout<<"1. Beli Obat "<<endl;
+	cout<<"2. Cari Obat "<<endl;
+	cout<<"3. Cek Ketersediaan "<<endl;
+	cout<<"4. Diagnosa "<<endl;
+
+	cout<<"\n \n";
+	pil:
+	cin>>pilihan;
+	
+	system("cls");
+	switch(pilihan){
+		case 2 : goto beli;break;
+		case 3 : goto cek;break;
+		case 4 : goto diagnosa;break;
+		default : break;
+	}
+	
+	beli :
+		cout<<"Masukkan Nama Obat : "<<endl;
+		cin>>merk;
+		cout<<"Masukkan Jumlah Obat yang ingin dibeli : "<<endl;
+		cin>>jumlah;
+		
+		system("cls");
+		
+		cout<<" Struk Pembelian Obat "<<endl;
+		garis();
+		cout<<" Nama Obat : "<<merk<<endl;
+		cout<<" Jumlah yang dibeli : "<<jumlah<<endl;
+		cout<<endl;
+		cout<<" Terima Kasih Telah Belanja di Toko Obat A3 "<<endl;
+		garis();
+		system ("pause");
+			
+		cout<<"Ada yang bisa dibantu lagi ? "<<endl;
+		cin>>n;
+		if(n == "Y"){
+			goto awal;
+		}else if (n=="y"){
+			goto awal;
+		}else if(n=="N"){
+			goto akhir;
+		}else if (n=="n"){
+			goto akhir;
+		}
+		
+
+	cek:
+		in.open(b.c_str()); //ngetes pake obat demam
+		while(!in.eof()){
+		getline(in,obat);				//tabel obat
+		cout<<obat<<endl;
+		}	
+		goto pil;
+		in.close();							//tabel obat
+
+
+	diagnosa:
+
+	cout<<"Pilih Gejala 1 "<<endl;
+	cout<<"1. Pusing dan Mual "<<endl;
+	cout<<"2. Gatal Pada Kulit "<<endl;
+	cout<<"3. Nafas Tidak Sedap "<<endl;
+	cout<<"4. Pucat				"<<endl;
+	cout<<"\t\t"<<endl;
+	cout<<"\n";
+	cout<<" Pilih Gejala 1 : "<<endl;
+	cin>>g1;
+	
+	system("cls");
+	
+	cout<<"Pilih Gejala 2 "<<endl;
+	cout<<"1. Muntah "<<endl;
+	cout<<"2. Badan Lemas "<<endl;
+	cout<<"3. Melilit "<<endl;
+	cout<<"4. Pusing "<<endl;
+	cout<<"5. Badan Panas Tak Nyaman "<<endl;
+	cout<<"6. Gigi Goyang "<<endl;
+	cout<<"7. Luka Pada Bibir "<<endl;
+	cout<<"8. Lesu dan Lelah  "<<endl;
+	cout<<"9. Badan Panas Dingin "<<endl;
+	cout<<"\t\t"<<endl;
+	cout<<endl;
+	cout<<" Pilih Gejala 2 : "<<endl;
+	cin>>g2;
+	
+	system("cls");
+	
+	cout<<"Pilih Gejala 3 "<<endl;
+	cout<<"1 . Nyeri Pada Sisi Kepala "<<endl;
+	cout<<"2. Rasa Berputar "<<endl;
+	cout<<"3. Badan Panas "<<endl;
+	cout<<"4. Pucat dan Lemas "<<endl;
+	cout<<"5. Bintik Merah "<<endl;
+	cout<<"6. Kulit Memerah "<<endl;
+	cout<<"7. Gusi Merah dan Bengkak "<<endl;
+	cout<<"8. Sakit Tenggorokan "<<endl;
+	cout<<"9. Pusing "<<endl;
+	cout<<"10. Pusing dan Mual "<<endl;
+	cout<<"11. Hidung Berair "<<endl;
+	cout<<"\t\t"<<endl;
+	cout<<" Pilih Gejala 3 : "<<endl;
+	cin>>g3;	
+	
+	system("cls");
+		
+		string namaobat = diagnosa(g1,g2,g3);
+		string nobat = "obat"+namaobat+".txt";	
+		cout<<"Mungkin penyakit Anda adalah : "<<namaobat<<endl;
+		cout<<endl;
+		cout<<"Apakah Anda ingin melihat list obat "<<namaobat<<" ? "<<endl;
+		cin>>m;
+		if(m=="y"){
+			in.open(nobat.c_str());
+			while(!in.eof()){
+			getline(in,obat);	
+			cout<<obat<<endl;
+			}
+		}else if(m=="Y"){
+			in.open(nobat.c_str());
+			while(!in.eof()){
+			getline(in,obat);	
+			cout<<obat<<endl;
+			}
+		}else if (m == "n"){
+		}else if (m=="N"){
+		}
+		
+		konfirm :
+			
+		cout<<"Ada yang bisa dibantu lagi ? "<<endl;
+		cin>>n;
+		if(n == "Y"){
+			goto awal;
+		}else if (n=="y"){
+			goto awal;
+		}else if(n=="N"){
+		
+		}else if (n=="n"){
+		}
+		akhir:
+		system ("pause");
+		return 0;
+}

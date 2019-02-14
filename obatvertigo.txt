@@ -1,0 +1,35 @@
+Nama Obat		Netto		Stok		Harga
+
+Merislon		6 mg		4 tablet	Rp. 5.885,-
+
+Mertigo 		6 mg		4 tablet	Rp. 4.150,-
+
+Stugeron		25 mg		2 tablet	Rp. 3.705,-
+
+Vastigo			6 mg		5 tablet	Rp. 1.256,-
+
+Dizine			10 mg		3 tablet	Rp. 7.338,-
+
+Merislon		12 mg		2 tablet	Rp, 8.472,-
+
+Sibelium		5 mg		6 tablet 	Rp. 7.386,-
+
+Unalium			5 mg		2 tablet	Rp. 7.386,-
+
+Flunarizine		10 mg		4 tablet 	Rp. 4.111,-
+
+Betahistin		6 mg		8 tablet	Rp. 1.285,-
+
+Frego			10 mg		1 tablet	Rp, 10.328,-
+
+Histigo			6 mg		9 tablet	Rp. 972,-
+
+Betaserc		24 mg		3 tablet	Rp. 12.822,-
+
+Vesitab			6 mg		3 tablet	Rp. 3.420,-
+
+Methycobal		250 mg		5 tablet	Rp. 4.602,-
+
+Lapibal			250 mg		3 tablet	Rp. 1.675,-
+
+Neurotam		1200 mg		1 tablet	Rp. 7.338,-

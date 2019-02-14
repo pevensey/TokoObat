@@ -1,0 +1,20 @@
+#include<iostream>
+int main(){
+	 std::string a,b,c;
+	
+	std:: cin>>a;
+	std:: cin>>b;
+	std:: cin>>c;
+	
+	if(a == "p" && b == "m" && c == "n"){
+		std::cout<<"benar"; //maka obat yang paling akurat yaitu yg ada di flowchart obat
+	}else if((a== "p"&&b=="m")||c=="n"){
+		std::cout<<"salah"; // yaitu obat yang mendekati atau #2
+	}else if (a=="p"||b=="m"||c=="n"){
+		std::cout<<"salben"; //yaitu 3 obat yg dikeluarkan
+	}else{
+		std::cout<<"bensal";
+	}
+	
+	return 0;
+}

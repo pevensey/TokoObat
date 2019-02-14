@@ -1,0 +1,23 @@
+	
+	//nb = nafas bau
+	//gg gigi goyang
+	//gmb = gusi merah dan bengkak
+	//lpb = luka pada bibir
+	//sg = sakit tenggorokan
+	//g = gatal
+	//pu = pusing
+	//bm = bintik merah
+	// bptn = badan panas tak nyaman
+	// km = kulit memerah
+	//p = pusmul
+	//m = muntah
+	//n = nyeri
+	//rp = rasa putar
+	//l = lemes
+	//bp = badan panas
+	//me = melilit
+	//pdl = pucat dan lemes
+	//pc = pucat
+	//ll = lesu lelah
+	//bpd = badan panas dingin
+	//hb = hidung berair

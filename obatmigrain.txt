@@ -1,0 +1,28 @@
+Nama Obat		Netto		Stok		Harga
+
+Frego 			5 mg		2 tablet	Rp. 7.737,-
+
+Bodrex Migra		25 mg		4 Strip		Rp. 2.053,-
+
+Unalium			10 mg		6 tablet	Rp. 10.037,-
+
+Flunarizne		10 mg		5 tablet	Rp. 4.111,-
+
+Stugeron 		25 mg		3 tablet	Rp. 3.705,-
+
+Dizine			10 mg		4 tablet	Rp. 7.338,-
+
+Zegren			50 mg		7 tablet	Rp. 1.535,-
+
+Topamax			25 mg 		2 tablet	Rp. 8.978,-
+
+Propranolol Dexa	10 mg		4 tablet	Rp. 109,-
+
+Aspirin 		500 mg		2 strip		Rp. 5.895,-
+
+Sibelium		5 mg		3 tablet 	Rp. 11.027,-
+
+Unalium			5 mg		3 tablet	Rp. 7.286,-
+
+Clonidine IF		15 mg		9 tablet 	Rp. 263,-
+

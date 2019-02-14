@@ -1,0 +1,41 @@
+Nama Obat		Netto		Stok		harga
+
+Panadol SYR		60  ml		6  botol	Rp. 41.410,-
+
+Panadol Biru TAB	10  g		6  blister	Rp.  8.698,-
+
+Paracetamol IF		500 mg		20 strip	Rp.  2.099,-
+
+Paramex TAB STR		20  mg		8  strip	Rp.  2.245,-
+
+Proris SYR		60  ml		4  botol	Rp. 27.243,-
+
+Proris Forte SYR	60  ml		6  botol	Rp. 30.559,-
+
+Polident Adhesive	60  g		5  tube		Rp. 42.172,-
+
+Hau Fung San		60  g		6  pcs		Rp.  6.587,-
+
+Sanmol			500 mg		12 strip	Rp.  1.608,-
+
+Caltron TAB		10  g		10 strip	Rp. 32.658,-
+
+Dumin			500 mg		15 strip	Rp.  5.426,-
+
+Dumin SYR		60  ml		5  botol	Rp. 23.669,-
+
+Polident Adhesive	15  g		7  tube		Rp. 18.841,-
+
+Pamol			500 mg		10 strip	Rp.  2.179,-
+
+Pamol SYR		60  ml		6  botol	Rp. 28.136,-
+
+Seven S Orange SYR	60  ml		5  botol	Rp. 34.443,-
+
+Dumocalcin Plus Cokl	60  ml		3  botol	Rp. 17.953,-
+
+Ibuprofen		200 mg		20 tablet	Rp.    277,-
+
+Kalzana D TAB STR	20  mg		13 strip	Rp.  8.965,-
+
+Frozz Orig Mint		60  g		18 pcs		Rp.  7.780,-

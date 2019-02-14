@@ -1,0 +1,41 @@
+Nama Obat		Netto		Stok		harga
+
+Biocream		20  g		5  tube		Rp. 29.476,-
+
+Kamillosan Oint		10  g		3  tube		Rp. 59.045,-
+
+Celestamine SYR		30  ml		6  botol	Rp. 42.855,-
+
+Nilacelin SYR		60  ml		5  botol	Rp. 35.170,-
+
+PK Cito			5   g		8  pot		Rp.  6.470,-
+
+Bepanthen Oint		20  g		4  tube		Rp. 63.214,-
+
+Elidel 1% CR		10  g		2  tube		RP.262.936,-
+
+Noroid Lotion		200 ml		3  botol	Rp.163.456,-
+
+Aerius			5   mg		10 strip	Rp. 10.656,-
+
+Alloris			10  mg		14 strip	Rp.  5.939,-
+
+Bestalin		25  mg		17 strip	Rp.  4.745,-
+
+Cetirizine		10  mg		20 strip	Rp.    437,-
+
+Dextamine		10  mg		12 strip	Rp.  2.303,-
+
+Histrine		10  mg		13 strip	Rp.  5.955,-
+
+Incidal-OD		10  mg		20 tablet	Rp.  3.562,-
+
+Interhistin		50  mg		15 tablet	Rp.    985,-
+
+Ozen			10  mg		16 tablet	Rp.  6.096,-
+
+Ozen SYR		60  ml		6  botol	Rp. 70.340,-
+
+Glycore CR		10  g		4  tube 	Rp. 32.155,-
+
+Asthin Force Gel	30  g		6  tube 	Rp. 93.786,-

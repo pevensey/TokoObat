@@ -1,0 +1,30 @@
+cout<<"Pilih Gejala 1 "<<endl;
+	cout<<"1. Pusing dan Mual "<<endl;
+	cout<<"2. Gatal Pada Kulit "<<endl;
+	cout<<"3. Nafas Tidak Sedap "<<endl;
+	cout<<"4. Pucat				"<<endl;
+	
+	cout<<"Pilih Gejala 2 "<<endl;
+	cout<<"1. Muntah "<<endl;
+	cout<<"2. Badan Lemas "<<endl;
+	cout<<"3. Melilit "<<endl;
+	cout<<"4. Pusing "<<endl;
+	cout<<"5. Badan Panas Tak Nyaman "<<endl;
+	cout<<"6. Gigi Goyang "<<endl;
+	cout<<"7. Luka Pada Bibir "<<endl;
+	cout<<"8. Lesu dan Lelah  "<<endl;
+	cout<<"9. Badan Panas Dingin "<<endl;
+	
+	cout<<"Pilih Gejala 3 "<<endl;
+	cout<<"1 . Nyeri Pada Sisi Kepala "<<endl;
+	cout<<"2. Rasa Berputar "<<endl;
+	cout<<"3. Badan Panas "<<endl;
+	cout<<"4. Pucat dan Lemas "<<endl;
+	cout<<"5. Bintik Merah "<<endl;
+	cout<<"6. Kulit Memerah "<<endl;
+	cout<<"7. Gusi Merah dan Bengkak "<<endl;
+	cout<<"8. Sakit Tenggorokan "<<endl;
+	cout<<"9. Pusing "<<endl;
+	cout<<"10. Pusing dan Mual "<<endl;
+	cout<<"11. Hidung Berair "<<endl;
+	cout<<"\t\t"<<endl;

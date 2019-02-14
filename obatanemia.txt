@@ -1,0 +1,41 @@
+Nama Obat		Netto		Stok		harga
+
+Nefrofer INJ		20  mg		6  ampul	Rp. 143.306,-
+
+Biosanbe CAP		20  mg		20 strip	Rp.  12.192,-
+
+Emineton 		10  g		20 strip	Rp.  19.036,-
+
+Ferofort		15  g		15 strip	Rp.  21.370,-
+
+Hemobion		15  mg		18 strip	Rp.  17.473,-
+
+Sangobion Femine	5   g		12 strip	Rp.  12.381,-
+
+Hemafort		50  mg		20 strip	Rp.   9.993,-
+
+Neurodex		10  g		16 strip	Rp.   7.369,-
+
+Sakatonik Liver		330 ml		4  botol	Rp.  24.142,-
+
+Sangobion		20  mg		12 strip	Rp.  12.628,-
+
+Tonikum Bayer		100 ml		6  botol	Rp.  15.433,-
+
+Tonikum Bayer		330 ml		 4 botol	Rp.  30.556,-
+
+Iberet Folic		15  g		10 strip	Rp.  41.255,-
+
+Maltofer Drop		30  ml		 6 botol	Rp.  71.847,-
+
+Feroglobin CAP		20  mg		12 strip	Rp.  14.242,-
+
+Feroglobin SYR		100 ml		 6 botol	Rp.  56.272,-
+
+Sangobion CAP		15  g		18 strip	Rp.   7.190,-
+
+ferriz TAB		15  g		12 strip	Rp.  12.784,-
+
+Ferriz DROP		 15 ml		 5 botol	Rp.  40.194,-
+
+Sangobion Vita-Tonik	250 ml		 9 botol	Rp.  24.781,-

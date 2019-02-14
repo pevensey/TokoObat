@@ -1,0 +1,11 @@
+Nama Obat		Netto		Stok		Harga
+
+Vermint Cap 		30 ml		4 botol		Rp. 54.212,-
+
+Tilung Syrup		60 ml		5 botol 	Rp. 23.142,-
+
+Colsancetine Syrup	60 ml		4 botol		Rp. 13.927,-
+
+Thiamycin F D Syrup	60 ml		2 botol 	Rp. 84.407,-
+
+Biothicol 		250 mg		3 tablet	Rp. 2.284,-

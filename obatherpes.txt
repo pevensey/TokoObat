@@ -1,0 +1,41 @@
+Nama Obat		Netto		Stok		harga
+
+Lyrica			75  mg		12 tablet	Rp. 16.075,-
+
+Lyrica			50  mg		15 tablet	Rp. 11.044,-
+
+Acyclovir Novell	400 mg		14 tablet	Rp.    864,-
+\
+Valtrex			500 mg		10 tablet	Rp. 22.721,-
+
+Valvir			500 mg		12 tablet	Rp. 17.306,-
+
+Zovirax CR 5%		5   g		5  tube		Rp.147.713,-
+
+Clinovir		400 mg		14 tablet	Rp. 10.467,-
+
+Zovirax			200 mg		12 tablet	Rp. 11.053,-
+
+Viusid Sach		200 mg		5  bungkus	Rp. 46.032,-
+
+Acyclovir CR 5%		5   g		5  tube		Rp.  4.592,-
+
+Clinovir 5% CR		5   g		6  tube		Rp. 45.942,-
+
+Zoter CR		5   g		8  tube		Rp. 56.272,-
+
+Virugon CR		5   g		5  tube		Rp. 13.899,-
+
+Acyclovir Novell	200 mg		20 tablet	Rp.    731,-
+
+Azovir 5% CR		15  g		7  tube		Rp. 18.414,-
+
+C Hervis Eye Oint	3,4 g		8  tube		Rp. 51.700,-
+
+Decoderm CR		10  g		4  tube		Rp. 40.389,-
+
+Scanovir 5% CR		10  g		5  tube		Rp. 36.577,-
+
+Clinovir TAB		200 mg		18 tablet	Rp.  6.049,-
+
+Zovirax			2   g		5  tube		Rp. 78.780,-

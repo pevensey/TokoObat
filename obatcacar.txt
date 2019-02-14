@@ -1,0 +1,25 @@
+Nama Obat		Netto		Stok		harga
+
+Acyclovir Novell	400 mg		16 tablet	Rp.    864,-
+
+Acyclovir CR 5%		5   g		5  tube		Rp.  4.592,-
+
+Clinovir		400 mg		15 tablet	Rp. 10.467,-
+
+Clinovir 5% CR		5   g		6  tube		Rp. 45.942,-
+
+PK Cito			5   g		3  pot		Rp.  6.470,-
+
+Bedak Salicyl		5   g		6  pcs		Rp.  6.106,-
+
+Bedak Salicyl Menthol	5   g		5  pcs		Rp.  7.642,-
+
+Acyclovir Novell	200 mg		16 tablet	Rp.    731,-
+
+Param Kocok Air Mancur	75  ml		5  botol	Rp. 19.031,-
+
+Laxadine SYR		60  ml		5  botol	Rp. 46.893,-
+
+Nephrolit CAP STR	10  g		18 strip	Rp.  3.155,-
+
+Mictonorm TAB		10  g		15 tablet	Rp. 13.456,-

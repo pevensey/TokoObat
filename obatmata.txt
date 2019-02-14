@@ -1,0 +1,21 @@
+Nama Obat		Netto		Stok		Harga
+
+Chyalub Eye Drop	5 ml		2 botol		Rp. 72.830,-
+
+C Protagenta Eye 	5 ml		2 botol		Rp. 58.382,-
+
+Vigamoox Ophtalmic	3 ml		1 botol		Rp. 164.594,-
+
+Terra CortilEye Oint	3.5 g		3 tube		Rp. 24.754,-
+
+C Tobroson Ed		5 ml		3 botol		Rp. 65.580,-
+
+Flumentholon eye 	5 ml		1 botol 	Rp. 118.170,-
+
+C Pantocain		5 ml		2 botol 	Rp. 18.640,-
+
+Rohto Cool Tm		10 ml		5 botol		Rp. 16.881,-
+
+Polidemisine eye drop	5 ml		3 botol		Rp. 31.040,-
+
+C Xitro Eye Drop	5 ml		3 botol		Rp. 38.031,-

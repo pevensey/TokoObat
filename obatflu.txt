@@ -1,0 +1,41 @@
+Nama Obat		Netto		Stok		harga
+
+Ultraflu STR		5  g		16 strip	Rp.  3.124,-
+
+Bisolvon Flu SYR	60 ml		5  botol	Rp. 42.204,-
+
+Tolak Angin cair Flu	15 ml		1  dos		Rp. 34.259,-
+
+Bodrex Flu & Batuk	10 g		18 strip	Rp.  1.716,-
+
+Sanaflu TAB STR		20 mg		16 strip	Rp.  1.831,-
+
+Procold Flu dan Batuk	10 g		12 strip	Rp.  3.088,-
+
+Sanaflu Plus Batuk SYR	60 ml		6  botol	Rp. 10.675,-
+
+Yekaflu TAB STR		15 mg		12 tablet	Rp.    891,-
+
+Fludexin SYR		60 ml		5  botol	Rp. 33.495,-
+
+Sanaflu plus batuk	20 mg		10 strip	Rp.  1.549,-
+
+Intunal F TAB		20 mg		8  strip	Rp.  3.823,-
+
+Neozep F TAB STR	15 mg		10 strip	Rp.  2.379,-
+
+Alco Oral Drop		15 ml		6  botol	Rp. 84.407,-
+
+Decolgen TAB STR	10 mg		12 strip	Rp.  1.961,-
+
+Panadol Cold Flu TAB	10 g		8  blister	Rp. 11.053,-
+
+Bodrex Flu dan Batuk K	60 ml		7  botol	Rp.  9.582,-
+
+OBH Combi+ Batuk Flu M	100ml		5  botol	Rp. 15.935,-
+
+OBH Combi Batuk Flu J	60 ml		6  botol	Rp. 12.415,-
+
+OBH Combi+ Batuk Flu M	60 ml		8  botol	Rp. 12.415,-
+
+Bodrex Flu dan Batuk B	5  g		12 strip	Rp.  1.745,-
